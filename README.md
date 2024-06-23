@@ -1,20 +1,19 @@
 # Olá, eu sou o Thiago! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/seu-perfil-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/seu-perfil-twitter)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seu-email@gmail.com)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thi4gos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag&theme=radical&hide_border=true&hide_title=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thi4gos&layout=compact&theme=radical&hide_border=true&hide_title=true&locale=pt-br)
 
 ## Sobre Mim
 
-Sou um entusiasta do desenvolvimento web, atualmente focado em me especializar nessa área. Além de programação, adoro conversar sobre filosofia, neurologia, biologia, psicologia, física teórica, astronomia e até um pouco de geopolítica.
+Sou um entusiasta do desenvolvimento web, atualmente focado em me especializar nessa área. Tenho paixão por aprender novas tecnologias e aplicar minhas habilidades de programação em projetos desafiadores.
 
 ## Interesses
 
-- **Desenvolvimento Web:** Estou sempre aprendendo novas tecnologias e melhorando minhas habilidades de codificação.
-- **Filosofia:** Gosto de explorar questões morais e éticas.
-- **Ciências:** Interesse em neurologia, biologia e física teórica.
-- **História:** Fascinado por sociedades guerreiras, como espartanos e vikings.
-- **Mundo Nerd:** Apaixonado por animes, HQs, mangás, filmes e séries de heróis.
+- **Desenvolvimento Web:** Sempre explorando novas tecnologias e frameworks para criar aplicações eficientes e escaláveis.
+- **Frontend:** Experiência com HTML, CSS, JavaScript e frameworks como React.
+- **Backend:** Conhecimento em Node.js, Express e bancos de dados como MongoDB e SQL.
+- **DevOps:** Interesse em ferramentas de automação, CI/CD e containerização com Docker.
+- **Open Source:** Contribuições para projetos de código aberto e colaboração com a comunidade.
 
 ## Habilidades
 
@@ -30,15 +29,7 @@ Sou um entusiasta do desenvolvimento web, atualmente focado em me especializar n
 
 ## Como Me Encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin)
-- [Twitter](https://twitter.com/seu-perfil-twitter)
-- [Email](mailto:seu-email@gmail.com)
-
-## Curiosidades
-
-- Sempre pronto para uma maratona de animes ou leitura de mangás.
-- Adoro discussões profundas sobre moralidade e ética.
-- Grande fã de filmes e séries de heróis.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/me/))
 
 ---
 
