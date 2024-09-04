@@ -10,17 +10,17 @@ I'm a web development enthusiast, currently focused on specializing in this fiel
 
 ## Interesses / Interests  
   **Web Development:** Constantly exploring new technologies and frameworks to create efficient and scalable applications.
-  **Frontend:** Experience with HTML, CSS, JavaScript, and frameworks like React.
+ - **Frontend:** Experience with HTML, CSS, JavaScript, and frameworks like React.
   **Backend:** Knowledge in Node.js, Express, and databases like MongoDB and SQL.
 
 ## Habilidades / Skills
   **Programming Languages:** HTML, CSS, JavaScript, Python, among others.
-  **Frameworks and Libraries:** React, Node.js, Express. 
+ - **Frameworks and Libraries:** React, Node.js, Express. 
   **Tools and Platforms:** Git, GitHub, VS Code, Docker.
 
 ## Projetos Recentes / Recent Projects  
   **Project 1:** Brief description of the project.  
-  **Project 2:** Brief description of the project.
+ - **Project 2:** Brief description of the project.
   **Project 3:** Brief description of the project.
 
 ## Como Me Encontrar / How to Find Me
