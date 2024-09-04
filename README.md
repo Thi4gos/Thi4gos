@@ -8,32 +8,19 @@ Sou um entusiasta do desenvolvimento web, atualmente focado em me especializar n
 
 I'm a web development enthusiast, currently focused on specializing in this field. I have a passion for learning new technologies and applying my programming skills to challenging projects.
 
-## Interesses / Interests
-- **Desenvolvimento Web:** Sempre explorando novas tecnologias e frameworks para criar aplicações eficientes e escaláveis.  
+## Interesses / Interests  
   **Web Development:** Constantly exploring new technologies and frameworks to create efficient and scalable applications.
-- **Frontend:** Experiência com HTML, CSS, JavaScript e frameworks como React.  
   **Frontend:** Experience with HTML, CSS, JavaScript, and frameworks like React.
-- **Backend:** Conhecimento em Node.js, Express e bancos de dados como MongoDB e SQL.  
   **Backend:** Knowledge in Node.js, Express, and databases like MongoDB and SQL.
-- **DevOps:** Interesse em ferramentas de automação, CI/CD e containerização com Docker.  
-  **DevOps:** Interest in automation tools, CI/CD, and containerization with Docker.
-- **Open Source:** Contribuições para projetos de código aberto e colaboração com a comunidade.  
-  **Open Source:** Contributions to open-source projects and collaboration with the community.
 
 ## Habilidades / Skills
-- **Linguagens de Programação:** HTML, CSS, JavaScript, Python, entre outras.  
   **Programming Languages:** HTML, CSS, JavaScript, Python, among others.
-- **Frameworks e Bibliotecas:** React, Node.js, Express.  
-  **Frameworks and Libraries:** React, Node.js, Express.
-- **Ferramentas e Plataformas:** Git, GitHub, VS Code, Docker.  
+  **Frameworks and Libraries:** React, Node.js, Express. 
   **Tools and Platforms:** Git, GitHub, VS Code, Docker.
 
-## Projetos Recentes / Recent Projects
-- **Projeto 1:** Breve descrição do projeto.  
-  **Project 1:** Brief description of the project.
-- **Projeto 2:** Breve descrição do projeto.  
+## Projetos Recentes / Recent Projects  
+  **Project 1:** Brief description of the project.  
   **Project 2:** Brief description of the project.
-- **Projeto 3:** Breve descrição do projeto.  
   **Project 3:** Brief description of the project.
 
 ## Como Me Encontrar / How to Find Me
